@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @qbies
+- 👀 I’m interested in unsupervised machine learning
+- 🌱 I’m currently learning agent based models using grasshopper
+- 💞️ I’m looking to collaborate on agents for the use in architectural design
+- 📫 How to reach me khengboon@live.com.sg
